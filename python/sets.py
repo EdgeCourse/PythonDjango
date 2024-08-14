@@ -246,7 +246,7 @@ print(person)      # Output: {'name': 'Alice', 'age': 30, 'city': 'New York'}
 print(person_copy) # Output: {'name': 'Alice', 'age': 31, 'city': 'New York'}
 
 
-#key existene
+#key existence
 person = {"name": "Alice", "age": 30, "city": "New York"}
 
 # Deprecated: 
